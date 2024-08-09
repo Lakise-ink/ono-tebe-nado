@@ -150,7 +150,7 @@
     color: #000000;
 }
 
-.lots__card-list{
+.lots__card-list {
     display: flex;
     justify-content: space-between;
     align-items: start;
@@ -270,7 +270,7 @@
     padding: 180px 50px 88px;
 }
 
-.footer__address{
+.footer__address {
     justify-self: start;
 }
 
